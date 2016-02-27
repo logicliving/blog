@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Paul K. Jackow</title>
+        <description>Paul Jackow&#39;s Blog</description>
+        <link>/</link>
+        <atom:link href="/feed.xml" rel="self"
+        type="application/rss+xml"/>
+        <pubDate>Fri, 26 Feb 2016 15:31:58 -1000</pubDate>
+        <lastBuildDate>Fri, 26 Feb 2016 15:31:58 -1000</lastBuildDate>
+        <generator>Jekyll v3.0.3</generator>
+        
+        <item>
+            <title>Third week at The Firehose Project</title>
+            <description>&lt;h3 id=&quot;where-is-the-time-going&quot;&gt;Where is the time going?&lt;/h3&gt;
+&lt;p&gt;It has been a lot of copying and following along.&lt;/p&gt;
+
+&lt;h3 id=&quot;when-will-i-go-solo&quot;&gt;When will I go solo.&lt;/h3&gt;
+&lt;p&gt;sfgsgasgdfasgadsfgsfdgsadgadfsgfdsgg&lt;/p&gt;
+
+&lt;p&gt;fdgsdfgdsgsdfgdsfgsdfgdfsgsdgsdfgsgdsg
+fgdfgfdsgfdgfdg
+dfgdfsgfdsgfdg&lt;/p&gt;
+</description>
+            <pubDate>Wed, 10 Feb 2016 02:12:12 -1000</pubDate>
+            <link>#/2016/02/10/thirdweek.html</link>
+            <guid isPermaLink="true">#/2016/02/10/thirdweek.html</guid>
+            
+            
+        </item>
+        
+        <item>
+            <title>Second week at The Firehose Project</title>
+            <description>&lt;h3 id=&quot;model-view-controller-relationship&quot;&gt;Model, View, Controller Relationship?&lt;/h3&gt;
+&lt;p&gt;I am trying to understand the relationship between the diffrent components of rails. How the diffrent components interact with each other is important to me. I found that the model&lt;/p&gt;
+
+&lt;h3 id=&quot;when-will-i-go-solo&quot;&gt;When will I go solo.&lt;/h3&gt;
+&lt;p&gt;sfgsgasgdfasgadsfgsfdgsadgadfsgfdsgg&lt;/p&gt;
+
+&lt;p&gt;fdgsdfgdsgsdfgdsfgsdfgdfsgsdgsdfgsgdsg
+fgdfgfdsgfdgfdg
+dfgdfsgfdsgfdg&lt;/p&gt;
+</description>
+            <pubDate>Wed, 10 Feb 2016 02:12:12 -1000</pubDate>
+            <link>#/2016/02/10/secondweek.html</link>
+            <guid isPermaLink="true">#/2016/02/10/secondweek.html</guid>
+            
+            
+        </item>
+        
+        <item>
+            <title>First week at The Firehose Project</title>
+            <description>&lt;h3 id=&quot;setting-up-the-environment&quot;&gt;Setting up the environment.&lt;/h3&gt;
+&lt;p&gt;It took some time to get used to the vagrant environment. I now understand that in order to have a controlled environment with no problems this was the way to go. It is essentially a Virtual machine that has been setup in a controlled manner, with ruby on rails packeged inside with all the dependencies.&lt;/p&gt;
+
+&lt;h3 id=&quot;working-on-my-first-app&quot;&gt;Working on my first app.&lt;/h3&gt;
+&lt;p&gt;I am currently working on my first app called “Splurty”. It has been prestty easy to follow along, I focused on learning the terminal and as many commands as possible, as they pertain to the project, its creation, manipulation etc. Also focused on learning the Github commit process, as well as Heroku.&lt;/p&gt;
+
+&lt;p&gt;Understanding that there are 2 databases, one that lives locally on your development environment and the other that lives on Heroku, is crucial, and can save a lot of time moving forward.
+I learned that Heroku uses the Postgres SQL database natively and it is easier to run your app using this database for migration purposes.&lt;/p&gt;
+
+&lt;p&gt;Although I am following along, in the back of my head I am thinking; How will I ever get a hang of this? The natural tendency is to try to back pedal, and have the concepts sink in my trying to recreate the steps just presented.  Instead I push on, trusting the process. I know I canot create the app on my own at this point.&lt;/p&gt;
+</description>
+            <pubDate>Mon, 01 Feb 2016 02:12:12 -1000</pubDate>
+            <link>#/2016/02/01/firstweek.html</link>
+            <guid isPermaLink="true">#/2016/02/01/firstweek.html</guid>
+            
+            
+        </item>
+        
+    </channel>
+</rss>
