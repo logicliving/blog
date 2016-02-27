@@ -6,8 +6,8 @@
         <link>/</link>
         <atom:link href="/feed.xml" rel="self"
         type="application/rss+xml"/>
-        <pubDate>Fri, 26 Feb 2016 15:31:58 -1000</pubDate>
-        <lastBuildDate>Fri, 26 Feb 2016 15:31:58 -1000</lastBuildDate>
+        <pubDate>Fri, 26 Feb 2016 16:35:54 -1000</pubDate>
+        <lastBuildDate>Fri, 26 Feb 2016 16:35:54 -1000</lastBuildDate>
         <generator>Jekyll v3.0.3</generator>
         
         <item>
@@ -16,11 +16,11 @@
 &lt;p&gt;It has been a lot of copying and following along.&lt;/p&gt;
 
 &lt;h3 id=&quot;when-will-i-go-solo&quot;&gt;When will I go solo.&lt;/h3&gt;
-&lt;p&gt;sfgsgasgdfasgadsfgsfdgsadgadfsgfdsgg&lt;/p&gt;
+&lt;p&gt;I so want to be able to anticipate what to do next, and be able to build an app from scratch.&lt;/p&gt;
 
-&lt;p&gt;fdgsdfgdsgsdfgdsfgsdfgdfsgsdgsdfgsgdsg
-fgdfgfdsgfdgfdg
-dfgdfsgfdsgfdg&lt;/p&gt;
+&lt;p&gt;I guess it comes with practice. I just want to be able to know the basics, so that I can run solo, and look up issues that arise on the fly. It seems like my hand is still being held. It is very frustrating, because my mentallity does not allow me to just move on. I need to dig in and recreate what we just did, in another format, in order to learn the information.&lt;/p&gt;
+
+&lt;p&gt;I put together this blog using Jekyll. It took me some time to understand the workings of how the pages interact with each other, and then how to deploy to Git hub Pages.&lt;/p&gt;
 </description>
             <pubDate>Wed, 10 Feb 2016 02:12:12 -1000</pubDate>
             <link>#/2016/02/10/thirdweek.html</link>
@@ -32,14 +32,12 @@ dfgdfsgfdsgfdg&lt;/p&gt;
         <item>
             <title>Second week at The Firehose Project</title>
             <description>&lt;h3 id=&quot;model-view-controller-relationship&quot;&gt;Model, View, Controller Relationship?&lt;/h3&gt;
-&lt;p&gt;I am trying to understand the relationship between the diffrent components of rails. How the diffrent components interact with each other is important to me. I found that the model&lt;/p&gt;
+&lt;p&gt;I am trying to understand the relationship between the diffrent components of rails. How the diffrent components interact with each other is important to me. I found that the routes.rb is very important in specifying the paths as well as what will be created. Next the controller basically sends us to the view as well as to the database through the Model. The Model is basically letting us comunicate to the database using SQL. Once the data is obtained through the Model we are able to place it in a variable e.i @places and call on this variable in the view.&lt;/p&gt;
 
-&lt;h3 id=&quot;when-will-i-go-solo&quot;&gt;When will I go solo.&lt;/h3&gt;
-&lt;p&gt;sfgsgasgdfasgadsfgsfdgsadgadfsgfdsgg&lt;/p&gt;
+&lt;h3 id=&quot;database&quot;&gt;Database.&lt;/h3&gt;
+&lt;p&gt;I dont really know how to access the database, I assume it is done through ruby terminal. I will have to dove deeper into this in the upcoming week.&lt;/p&gt;
 
-&lt;p&gt;fdgsdfgdsgsdfgdsfgsdfgdfsgsdgsdfgsgdsg
-fgdfgfdsgfdgfdg
-dfgdfsgfdsgfdg&lt;/p&gt;
+&lt;p&gt;I tried to create a sample app from scratch, and hit a wall on how the naming conventions need to look in order for the MVC to work together. I finally got it through trial and error! Very time consuming.&lt;/p&gt;
 </description>
             <pubDate>Wed, 10 Feb 2016 02:12:12 -1000</pubDate>
             <link>#/2016/02/10/secondweek.html</link>
