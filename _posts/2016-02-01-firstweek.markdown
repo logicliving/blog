@@ -1,6 +1,6 @@
 ---
-title:  "First week at The Firehose Project"
-subtitle: "Environments"
+title:  "First week Coding."
+subtitle: "Launching Sky High: Dev Environment"
 author: "Paul Jackow"
 avatar: "img/authors/paul.jpg"
 image: "img/a.jpg"

@@ -6,12 +6,12 @@
         <link>http://logicliving.github.io//blog/</link>
         <atom:link href="http://logicliving.github.io//blog/feed.xml" rel="self"
         type="application/rss+xml"/>
-        <pubDate>Fri, 26 Feb 2016 19:28:07 -1000</pubDate>
-        <lastBuildDate>Fri, 26 Feb 2016 19:28:07 -1000</lastBuildDate>
+        <pubDate>Fri, 26 Feb 2016 23:23:39 -1000</pubDate>
+        <lastBuildDate>Fri, 26 Feb 2016 23:23:39 -1000</lastBuildDate>
         <generator>Jekyll v3.0.3</generator>
         
         <item>
-            <title>Third week at The Firehose Project</title>
+            <title>Third week Coding.</title>
             <description>&lt;h3 id=&quot;where-is-the-time-going&quot;&gt;Where is the time going?&lt;/h3&gt;
 &lt;p&gt;It has been a lot of copying and following along.&lt;/p&gt;
 
@@ -30,7 +30,7 @@
         </item>
         
         <item>
-            <title>Second week at The Firehose Project</title>
+            <title>Second week Coding.</title>
             <description>&lt;h3 id=&quot;model-view-controller-relationship&quot;&gt;Model, View, Controller Relationship?&lt;/h3&gt;
 &lt;p&gt;I am trying to understand the relationship between the diffrent components of rails. How the diffrent components interact with each other is important to me. I found that the routes.rb is very important in specifying the paths as well as what will be created. Next the controller basically sends us to the view as well as to the database through the Model. The Model is basically letting us comunicate to the database using SQL. Once the data is obtained through the Model we are able to place it in a variable e.i @places and call on this variable in the view.&lt;/p&gt;
 
@@ -47,7 +47,7 @@
         </item>
         
         <item>
-            <title>First week at The Firehose Project</title>
+            <title>First week Coding.</title>
             <description>&lt;h3 id=&quot;setting-up-the-environment&quot;&gt;Setting up the environment.&lt;/h3&gt;
 &lt;p&gt;It took some time to get used to the vagrant environment. I now understand that in order to have a controlled environment with no problems this was the way to go. It is essentially a Virtual machine that has been setup in a controlled manner, with ruby on rails packeged inside with all the dependencies.&lt;/p&gt;
 

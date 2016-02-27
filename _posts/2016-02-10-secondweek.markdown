@@ -1,6 +1,6 @@
 ---
-title:  "Second week at The Firehose Project"
-subtitle: "MVC"
+title:  "Second week Coding."
+subtitle: "Model / View / Controller"
 author: "Paul Jackow"
 avatar: "img/authors/paul.jpg"
 image: "img/b.jpg"

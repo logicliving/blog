@@ -1,5 +1,5 @@
 ---
-title:  "Third week at The Firehose Project"
+title:  "Third week Coding."
 subtitle: "Time is Flying"
 author: "Paul Jackow"
 avatar: "img/authors/paul.jpg"
