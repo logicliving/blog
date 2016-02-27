@@ -3,11 +3,11 @@
     <channel>
         <title>Paul K. Jackow</title>
         <description>Paul Jackow&#39;s Blog</description>
-        <link>/</link>
-        <atom:link href="/feed.xml" rel="self"
+        <link>http://logicliving.github.io//blog/</link>
+        <atom:link href="http://logicliving.github.io//blog/feed.xml" rel="self"
         type="application/rss+xml"/>
-        <pubDate>Fri, 26 Feb 2016 16:35:54 -1000</pubDate>
-        <lastBuildDate>Fri, 26 Feb 2016 16:35:54 -1000</lastBuildDate>
+        <pubDate>Fri, 26 Feb 2016 19:28:07 -1000</pubDate>
+        <lastBuildDate>Fri, 26 Feb 2016 19:28:07 -1000</lastBuildDate>
         <generator>Jekyll v3.0.3</generator>
         
         <item>
@@ -23,8 +23,8 @@
 &lt;p&gt;I put together this blog using Jekyll. It took me some time to understand the workings of how the pages interact with each other, and then how to deploy to Git hub Pages.&lt;/p&gt;
 </description>
             <pubDate>Wed, 10 Feb 2016 02:12:12 -1000</pubDate>
-            <link>#/2016/02/10/thirdweek.html</link>
-            <guid isPermaLink="true">#/2016/02/10/thirdweek.html</guid>
+            <link>http://logicliving.github.io//blog#/2016/02/10/thirdweek.html</link>
+            <guid isPermaLink="true">http://logicliving.github.io//blog#/2016/02/10/thirdweek.html</guid>
             
             
         </item>
@@ -40,8 +40,8 @@
 &lt;p&gt;I tried to create a sample app from scratch, and hit a wall on how the naming conventions need to look in order for the MVC to work together. I finally got it through trial and error! Very time consuming.&lt;/p&gt;
 </description>
             <pubDate>Wed, 10 Feb 2016 02:12:12 -1000</pubDate>
-            <link>#/2016/02/10/secondweek.html</link>
-            <guid isPermaLink="true">#/2016/02/10/secondweek.html</guid>
+            <link>http://logicliving.github.io//blog#/2016/02/10/secondweek.html</link>
+            <guid isPermaLink="true">http://logicliving.github.io//blog#/2016/02/10/secondweek.html</guid>
             
             
         </item>
@@ -60,8 +60,8 @@ I learned that Heroku uses the Postgres SQL database natively and it is easier t
 &lt;p&gt;Although I am following along, in the back of my head I am thinking; How will I ever get a hang of this? The natural tendency is to try to back pedal, and have the concepts sink in my trying to recreate the steps just presented.  Instead I push on, trusting the process. I know I canot create the app on my own at this point.&lt;/p&gt;
 </description>
             <pubDate>Mon, 01 Feb 2016 02:12:12 -1000</pubDate>
-            <link>#/2016/02/01/firstweek.html</link>
-            <guid isPermaLink="true">#/2016/02/01/firstweek.html</guid>
+            <link>http://logicliving.github.io//blog#/2016/02/01/firstweek.html</link>
+            <guid isPermaLink="true">http://logicliving.github.io//blog#/2016/02/01/firstweek.html</guid>
             
             
         </item>
